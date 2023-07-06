@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+
+ li {
+    list-style-type: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .beak{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 18px;
+  }
+
+  .tytle {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color:  rgba(68, 69, 64, 1);
+  }
+
+  .text {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 40px;
+  }

@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+ }
+
+ li {
+    list-style-type: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  img {
+    max-width: auto;
+    height: auto;
+  }
+
+  .beak{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 18px;
+  }
+
+  .img {
+    width: 1120px;
+    display: flex;
+    justify-content: center;
+    padding-left: 180px;
+  }
+
+  .tytle {
+    text-align: center;
+    margin-top: 50px;
+    
+  }
+
+   
